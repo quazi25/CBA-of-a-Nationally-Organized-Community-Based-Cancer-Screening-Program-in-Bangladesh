@@ -19,6 +19,7 @@ Sheet 5 shows the estimaton of screening spots to cover whole urban area in Bang
 Sheet 6 shows the annual cost of testing at the tertiary level facilities.
 Sheet 7 has the table showing national level yearly cost calculations. 
 Lastly, sheet 8 shows the benfit-cost ratio, the actual one (in italic) and also for hypothetical scenarios.
+There are some notes in some worksheets which are used for clarity.
 
 The "**Do File**" has the codes that were used to clean the data from the facility exit survey which were used to calculate the benefits. 
 The do file has two parts: 1. Codes for data cleaning and processing 2. Codes for data analysis
