@@ -8,7 +8,7 @@ The sixth and seventh worksheets contain the calculation of annual societal cost
 The last worksheet has the tables showing sensitivity analyses.
 There exists a few tables in this file which were not included neither in the manuscript nor the supplementary appendix.
 There are a few notes and assumptions mentioned 'again' in some worksheets for convenience of understanding and clarity.
-..................................................................................
+
 The file titled "**Cost of Screening**" contains all the cost side data and estimation tables.
 The first page works as a cover page
 The second worksheet contains all the union level data and calculation tables. The name of the cost items and the amount required per community clinic and union directly come from the Nawly Pilot Project titled "An Organized Community-Based Clinical Screening Program for Cervical, Breast, and Oral Cancer in Bangladesh: Design and Pilot Experiment". Data on unit price also have the same source, with a few exceptions.
