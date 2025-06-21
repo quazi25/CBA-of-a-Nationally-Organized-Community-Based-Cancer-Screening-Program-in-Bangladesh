@@ -22,5 +22,5 @@ Lastly, sheet 8 shows the benfit-cost ratio, the actual one (in italic) and also
 
 The "**Do File**" has the codes that were used to clean the data from the facility exit survey which were used to calculate the benefits. 
 The do file has two parts: 1. Codes for data cleaning and processing 2. Codes for data analysis
-These codes are applied upon the Excel File titled, "UGC cencer study dataset", that contains the survey data.
+These codes are applied upon the Excel File titled, "**UGC cencer study dataset**", that contains the survey data.
 Applying these codes, we got the benefit estimates that were used in the tables of 'direct cost savings', 'intangible cost savings', 'provider-side cost savings' and 'indirect cost savings'.
