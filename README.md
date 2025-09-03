@@ -6,4 +6,4 @@ The do file has two parts: 1. Codes for data cleaning and processing 2. Codes fo
 These codes are applied upon the Excel File titled, "**Facility-based Survey dataset**", that contains the survey data.
 Applying these codes, we got the benefit estimates that were used in the tables of 'direct cost savings', 'intangible cost savings', 'provider-side cost savings' and 'indirect cost savings'.
 
-**Voucher** file contains the costs of screening ingrdients at the upazila and union level. These vouchers were one of the data sources for implementatoon costs calculation.
+**Voucher** file contains the quantity and unit price of each screening ingrdient that were recorded in the pilot project on implementing organized community-based clinical screening programme for cervical, breast, and oral cancer in Bangladesh which was funded by SingHealth Duke-NUS Global Health Institute (SDGHI) Global Health Pilot Grant. These vouchers were one of the data sources for the caulculation of national oral, breast and cervical cancer screening implementation costs in Bangladesh.
